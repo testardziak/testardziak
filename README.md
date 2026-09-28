@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Franciszek-Ciecholewski
-- I'm currently a student of Applied Computer Science and Artificial Intelligence at Sapienza University in Rome, Italy
-- 👀 I’m interested in: computer science, languages
-- 🌱 I’m currently learning: python matplotlib library, android app development (Java and Kotlin)
+- I'm was a student of Applied Computer Science and Artificial Intelligence at Sapienza University in Rome, Italy
+- Currently enrolled in a computer science course (undergraduate) at Technical University of Gdansk (Politechnika Gdańska)
+- 👀 I’m interested in: computer science, natural languages and music
+- 🌱 I’m currently learning: How to code a RAG over tax law (bills and lower level interpretations and court rulings)
 - 📫 How to reach me:
-    email:  fra.ciecholewski@yahoo.com
+    email:  fra.ciecholewski@yahoo.com, ciechof@gmail.com
 
 <!---
 Franciszek-Ciecholewski/Franciszek-Ciecholewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
