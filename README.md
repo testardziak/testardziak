@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Franciszek-Ciecholewski
+- 👋 Hi, I’m Franciszek Ciecholewski known as @testadurak
 - I'm was a student of Applied Computer Science and Artificial Intelligence at Sapienza University in Rome, Italy
 - Currently enrolled in a computer science course (undergraduate) at Technical University of Gdansk (Politechnika Gdańska)
 - 👀 I’m interested in: computer science, natural languages and music
